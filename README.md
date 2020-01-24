@@ -1,5 +1,4 @@
-# Show Junkie
-Twitter for TV Shows
+# Youtube Video Player Page
 
 # What it does
 It is the UI for the Youtube Video Player page
@@ -34,7 +33,7 @@ Contributions, issues and feature requests are welcome! Start by:
 Feel free to check the [issues page](https://github.com/Oluwadamilareolusakin/movie-junkie-api/issues).
 
 ## Attributions and Credit
-Special thanks to [TV Maze](https://www.tvmaze.com/api) for their wonderful API, it was fun to work with! :rocket: 
+Special thanks to [Youtube](https://www.youtube.com) for leading the way! :rocket: 
 
 ## Show your support
 
