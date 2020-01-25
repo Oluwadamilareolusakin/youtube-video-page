@@ -10,7 +10,7 @@ It is the UI for the Youtube Video Player page
 
 ## Live Demo
 
-[Live Demo](https://moviejunkie.herokuapp.com)
+[Live Demo](https://raw.githack.com/Oluwadamilareolusakin/youtube-video-page/master/index.html)
 
 ## Getting Started
 
@@ -30,7 +30,7 @@ Contributions, issues and feature requests are welcome! Start by:
 * Push your branch up to your forked repository
 * Open a Pull Request with a detailed description to the development branch of the original project for a review
 
-Feel free to check the [issues page](https://github.com/Oluwadamilareolusakin/movie-junkie-api/issues).
+Feel free to check the [issues page](https://github.com/Oluwadamilareolusakin/youtube-video-page/issues).
 
 ## Attributions and Credit
 Special thanks to [Youtube](https://www.youtube.com) for leading the way! :rocket: 
