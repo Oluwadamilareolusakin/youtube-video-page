@@ -1,13 +1,20 @@
 <!DOCTYPE html>
 <html lang="en-US">
-    <head>
-        <meta charset="UTF-8">
-        <title>How To Embed A YouTube Video</title>
-        <link rel="stylesheet" href="./stylesheets/index.css">
-        <link rel="stylesheet" href="./stylesheets/css/all.css">
-      </head>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta charset="UTF-8">
+    <title>How To Embed A YouTube Video</title>
+    <link rel="stylesheet" href="./stylesheets/index.css">
+    <link rel="stylesheet" href="./stylesheets/css/all.css">
+  </head>
     <body>
         <nav class="row">
+          <div class="mobile-search-holder">
+            <input type="text" name="search" class="mobile-search-bar" placeholder="Search">
+            <i class="fa fa-times close-search-icon"></i>
+          </div>
             <div class="nav-left row">
                 <i class="fa fa-bars nav-icon"></i>
                 <img src="images/logo.png" alt="youtube logo"  class="logo">
@@ -21,10 +28,13 @@
             
 
             <div class="nav-right row">
-                <i class="fa fa-video nav-icon"></i>
-                <i class="fa fa-bell nav-icon"></i>
-                <i class="fa fa-comment nav-icon"></i>
-                <i class="fab fa-github nav-icon"></i>
+                <i class="fa fa-video nav-icon desktop-icon"></i>
+                <i class="fa fa-bell nav-icon desktop-icon"></i>
+                <i class="fa fa-comment nav-icon desktop-icon"></i>
+                <i class="fab fa-github nav-icon desktop-icon"></i>
+                <i class="fa fa-search mobile-icon nav-icon mobile-search-icon"></i>
+                <i class="fa fa-ellipsis-v mobile-icon nav-icon"></i>
+                <button class="mobile-icon sign-in-btn"><i class="fa fa-user"></i> SIGN IN</button>
             </div>
                 
         </nav>
